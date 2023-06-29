@@ -1,0 +1,17 @@
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.csproj.AssemblyReference.cache
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet_Non_linear_equation.MainForm.resources
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.csproj.GenerateResource.cache
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.AssemblyInfoInputs.cache
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.AssemblyInfo.cs
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.csproj.CoreCompileInputs.cache
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\bin\Debug\net6.0-windows\Shemet Non-linear equation.exe
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\bin\Debug\net6.0-windows\Shemet Non-linear equation.deps.json
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\bin\Debug\net6.0-windows\Shemet Non-linear equation.runtimeconfig.json
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\bin\Debug\net6.0-windows\Shemet Non-linear equation.dll
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\bin\Debug\net6.0-windows\Shemet Non-linear equation.pdb
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.dll
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\refint\Shemet Non-linear equation.dll
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.pdb
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\Shemet Non-linear equation.genruntimeconfig.cache
+C:\Main\University\Чисельні методи\+\Shemet\Shemet Non-linear equation\Shemet Non-linear equation\obj\Debug\net6.0-windows\ref\Shemet Non-linear equation.dll
